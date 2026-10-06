@@ -17,6 +17,7 @@ Solutions are added to the `solutions` folder after each practical session.
 | Session | Date | Notebook | Colab |
 |---|---|---|---|
 | 1 | 30 Sep 2026 | [practical 1](practicals/scripting_practical1_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical1_2627.ipynb) |
+| 2 | 7 Oct 2026 | [practical 2](practicals/scripting_practical2_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical2_2627.ipynb) |
 
 ## Lecture code-along notebooks
 
@@ -26,6 +27,7 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 | Lecture | Date | Notebook | Colab |
 |---|---|---|---|
 | 2 | 30 Sep 2026 | [lecture 2](lecture_notebooks/scripting_lecture2_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture2_code_2627.ipynb) |
+| 3 | 7 Oct 2026 | [lecture 3](lecture_notebooks/scripting_lecture3_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture3_code_2627.ipynb) |
 
 ## Solutions
 
