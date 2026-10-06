@@ -33,3 +33,4 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 
 | Session | Notebook | Colab |
 |---|---|---|
+| 1 | [practical 1 solutions](solutions/scripting_practical1_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/solutions/scripting_practical1_2627_solutions.ipynb) |
