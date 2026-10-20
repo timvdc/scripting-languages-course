@@ -19,6 +19,7 @@ Solutions are added to the `solutions` folder after each practical session.
 | 1 | 30 Sep 2026 | [practical 1](practicals/scripting_practical1_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical1_2627.ipynb) |
 | 2 | 7 Oct 2026 | [practical 2](practicals/scripting_practical2_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical2_2627.ipynb) |
 | 3 | 14 Oct 2026 | [practical 3](practicals/scripting_practical3_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical3_2627.ipynb) |
+| 4 | 21 Oct 2026 | [practical 4](practicals/scripting_practical4_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical4_2627.ipynb) |
 
 ## Lecture code-along notebooks
 
@@ -30,6 +31,7 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 | 2 | 30 Sep 2026 | [lecture 2](lecture_notebooks/scripting_lecture2_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture2_code_2627.ipynb) |
 | 3 | 7 Oct 2026 | [lecture 3](lecture_notebooks/scripting_lecture3_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture3_code_2627.ipynb) |
 | 4 | 14 Oct 2026 | [lecture 4](lecture_notebooks/scripting_lecture4_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture4_code_2627.ipynb) |
+| 5 | 21 Oct 2026 | [lecture 5](lecture_notebooks/scripting_lecture5_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture5_code_2627.ipynb) |
 
 ## Solutions
 
