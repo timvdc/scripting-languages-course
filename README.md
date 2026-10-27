@@ -20,6 +20,7 @@ Solutions are added to the `solutions` folder after each practical session.
 | 2 | 7 Oct 2026 | [practical 2](practicals/scripting_practical2_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical2_2627.ipynb) |
 | 3 | 14 Oct 2026 | [practical 3](practicals/scripting_practical3_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical3_2627.ipynb) |
 | 4 | 21 Oct 2026 | [practical 4](practicals/scripting_practical4_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical4_2627.ipynb) |
+| 5 | 28 Oct 2026 | [practical 5](practicals/scripting_practical5_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/practicals/scripting_practical5_2627.ipynb) |
 
 ## Lecture code-along notebooks
 
@@ -32,6 +33,7 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 | 3 | 7 Oct 2026 | [lecture 3](lecture_notebooks/scripting_lecture3_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture3_code_2627.ipynb) |
 | 4 | 14 Oct 2026 | [lecture 4](lecture_notebooks/scripting_lecture4_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture4_code_2627.ipynb) |
 | 5 | 21 Oct 2026 | [lecture 5](lecture_notebooks/scripting_lecture5_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture5_code_2627.ipynb) |
+| 6 | 28 Oct 2026 | [lecture 6](lecture_notebooks/scripting_lecture6_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture6_code_2627.ipynb) |
 
 ## Solutions
 
@@ -40,3 +42,4 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 | 1 | [practical 1 solutions](solutions/scripting_practical1_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/solutions/scripting_practical1_2627_solutions.ipynb) |
 | 2 | [practical 2 solutions](solutions/scripting_practical2_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/solutions/scripting_practical2_2627_solutions.ipynb) |
 | 3 | [practical 3 solutions](solutions/scripting_practical3_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/solutions/scripting_practical3_2627_solutions.ipynb) |
+| 4 | [practical 4 solutions](solutions/scripting_practical4_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/solutions/scripting_practical4_2627_solutions.ipynb) |
