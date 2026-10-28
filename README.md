@@ -35,6 +35,14 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 | 5 | 21 Oct 2026 | [lecture 5](lecture_notebooks/scripting_lecture5_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture5_code_2627.ipynb) |
 | 6 | 28 Oct 2026 | [lecture 6](lecture_notebooks/scripting_lecture6_code_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/lecture_notebooks/scripting_lecture6_code_2627.ipynb) |
 
+## Assignments
+
+Optional, not graded. Hand in on Toledo; a model solution is posted there after the deadline.
+
+| Assignment | Deadline | Notebook | Colab |
+|---|---|---|---|
+| 1 | 5 Nov 2026 | [assignment 1](assignments/scripting_assignment1_2627.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/scripting-languages-course/blob/main/assignments/scripting_assignment1_2627.ipynb) |
+
 ## Solutions
 
 | Session | Notebook | Colab |
