@@ -37,7 +37,7 @@ Before the lecture, the solutions to the small in-class examples are left out; t
 
 ## Assignments
 
-Optional, not graded. Hand in on Toledo; a model solution is posted there after the deadline.
+Optional, not graded. You may hand in on Toledo; a model solution is posted there after the deadline, and students who hand in may receive comments.
 
 | Assignment | Deadline | Notebook | Colab |
 |---|---|---|---|
